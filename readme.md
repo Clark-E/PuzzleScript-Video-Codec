@@ -5,9 +5,9 @@ by Ethan Clark
 
 Okay, so what is this thing? Well, I'll tell you what it is and how it works, but first I'm assuming you know some things:
 
--what PuzzleScript is
--some very basic knowledge about how it works
--basic pinciples of video encoding (not like I know a whole lot about video encoding, either)
+*what PuzzleScript is
+*some very basic knowledge about how it works
+*basic pinciples of video encoding (not like I know a whole lot about video encoding, either)
 
 So, here's what this is:
 
