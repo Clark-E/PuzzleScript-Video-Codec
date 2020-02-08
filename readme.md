@@ -15,4 +15,8 @@ PSV is a program that takes a "video" (just a sequence of images) and outputs Pu
 
 How does it work?
 
-I might make a detailed explanation at some point. For now, the source code has a decent ammount of comments.
+I might make a detailed explanation at some point. For now, the source code has a decent ammount of comments. Check out the psv.py script.
+
+***PuzzleScript Image codec***
+
+PSI is a fork of PSV that's more focused on generating high quality images (via overlaying tiles). It's the psi.py script.
